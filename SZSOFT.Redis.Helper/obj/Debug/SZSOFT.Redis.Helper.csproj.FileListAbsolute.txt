@@ -1,0 +1,9 @@
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\bin\Debug\SZSOFT.Redis.Helper.dll
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\bin\Debug\SZSOFT.Redis.Helper.pdb
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\bin\Debug\StackExchange.Redis.dll
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\bin\Debug\StackExchange.Redis.xml
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\obj\Debug\SZSOFT.Redis.Helper.csprojAssemblyReference.cache
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\obj\Debug\SZSOFT.Redis.Helper.csproj.CopyComplete
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\obj\Debug\SZSOFT.Redis.Helper.dll
+E:\myworkspace\practise\myredisweb\SZSOFT.Redis.Helper\obj\Debug\SZSOFT.Redis.Helper.pdb
